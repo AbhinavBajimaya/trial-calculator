@@ -19,6 +19,7 @@ int a,b;
 cin>>a>>b;
 add(a,b);
 sub(a,b);
+  multi(a,b);
 cout<<"this is the outout";
 return 0;
 }
